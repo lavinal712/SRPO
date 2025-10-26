@@ -38,6 +38,8 @@
 4. **Potential for Controllable Fine-tuning**: For the first time in online RL, we incorporate dynamically controllable text conditions, enabling on-the-fly adjustment of reward preference towards styles within the scope of the reward model.
 
 ## 🔥 News
+- __[2025.10.26]__: 👑 **We achieved the Top1 on [Artificial Analysis Leaderboard](https://artificialanalysis.ai/image/leaderboard/text-to-image?open-weights=true) for text-to-image open-source models.**
+  <img width="698" height="633" alt="image" src="https://github.com/user-attachments/assets/e9b6ad7e-5453-45c7-a9e6-10531617e5b9" />
 
 - __[2025.9.12]__:  🎉 We released the complete training code. We also share tips and experiences to help you train your models. You’re welcome to discuss and ask questions in the issues! 💬✨
 - __[2025.9.12]__:  🎉 We provide a standard workflow—feel free to use it in ComfyUI.
